@@ -7,4 +7,4 @@ print('Cálculo de salário por horas trabalhadas')
 valor_hora = float(input('Digite o valor pago por hora trabalhada em R$:'))
 qtd_horas_trabalhadas = float(input('Digite a quantidade de horas trabalhadas no mês:'))
 salario = valor_hora * qtd_horas_trabalhadas
-print('O seu salário nesse mês é de R$ {:.2f}'.format(salario))
+print(f'O seu salário nesse mês é de R$ {salario:.2f}')
