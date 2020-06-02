@@ -12,5 +12,3 @@ if genero == 1:
 elif genero == 2:
     peso_ideal = (62.1 * h) - 44.7
     print(f'O seu peso ideal é {peso_ideal:.2f} Kg')
-
-
