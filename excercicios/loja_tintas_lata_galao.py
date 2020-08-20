@@ -23,3 +23,6 @@ if galao_metros_quadrado < metros_quadrado <= lata_metros_quadrado:
     print(f'Você precisa de {quantidade_latas} galões\n'
           f'O valor total é de R$: {valor:.2f}')
 if
+    '''
+    Falta terminar!!! Travou na lógica!
+    '''
